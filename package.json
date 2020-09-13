@@ -44,6 +44,7 @@
     "messageformat-convert": "file:packages/convert",
     "messageformat-loader": "file:packages/webpack-loader",
     "messageformat-loader-example": "file:packages/webpack-loader-example",
+    "messageformat-number-skeleton": "file:packages/number-skeleton",
     "messageformat-parser": "file:packages/parser",
     "messageformat-runtime": "file:packages/runtime",
     "messageformat-website": "file:packages/website",

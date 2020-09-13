@@ -6,6 +6,7 @@ package-lock.json
 /packages/webpack-loader-example/dist/bundle.js
 /packages/messageformat/lib/*
 /packages/messageformat/messageformat.*
+/packages/number-skeleton/lib/*
 /packages/parser/lib/*
 /packages/rollup-plugin/lib/*
 /packages/runtime/esm/*
