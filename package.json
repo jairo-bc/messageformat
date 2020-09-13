@@ -42,6 +42,7 @@
     "messageformat": "file:packages/messageformat",
     "messageformat-cli": "file:packages/cli",
     "messageformat-convert": "file:packages/convert",
+    "messageformat-date-skeleton": "file:packages/date-skeleton",
     "messageformat-loader": "file:packages/webpack-loader",
     "messageformat-loader-example": "file:packages/webpack-loader-example",
     "messageformat-number-skeleton": "file:packages/number-skeleton",
